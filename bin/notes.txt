@@ -1,5 +1,5 @@
 >>Creational Design Pattern
-*Singelton Pattern
+*Singleton Pattern
 *Factory Pattern
 *Abstract Factory Pattern
 *Builder Pattern
