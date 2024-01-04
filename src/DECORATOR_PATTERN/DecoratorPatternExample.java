@@ -32,6 +32,7 @@ class DecoratorDress implements Dress {
 class SportyDress extends DecoratorDress {
 
 	public SportyDress(Dress d) {
+
 		super(d);
 
 	}
@@ -39,6 +40,7 @@ class SportyDress extends DecoratorDress {
 	public void assemble() {
 		super.assemble();
 		System.out.println("Sport Dress feature");
+
 	}
 
 }
@@ -69,16 +71,15 @@ class CasualDress extends DecoratorDress {
 }
 
 public class DecoratorPatternExample {
-	
+
 	public static void main(String[] args) {
-		
+
 		Dress sportyDress = new SportyDress(new BasicDress());
 		sportyDress.assemble();
-		
-		sportyDress= new SportyDress(new CasualDress(new BasicDress()));
+
+		sportyDress = new SportyDress(new CasualDress(new BasicDress()));
 		sportyDress.assemble();
-		
-		
+
 	}
 
 }

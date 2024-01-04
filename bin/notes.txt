@@ -1,16 +1,16 @@
 >>Creational Design Pattern
-*Singleton Pattern
-*Factory Pattern
-*Abstract Factory Pattern
-*Builder Pattern
-*Prototype Pattern
+*Singleton Pattern   *
+*Factory Pattern   *
+*Abstract Factory Pattern  
+*Builder Pattern *
+*Prototype Pattern *
 
 
 >>Structural Design Pattern
-*Adapter Pattern
-*Bridge Pattern
+*Adapter Pattern  *
+*Bridge Pattern  
 *Composite Pattern
-*Decorator Pattern
+*Decorator Pattern *
 *Facade Pattern
 *Proxy Pattern
 *Flyweight Pattern
@@ -21,8 +21,8 @@
 *Iterator Pattern
 *Mediator Pattern
 *Memento Pattern
-*Observer Pattern
-*Strategy Pattern
+*Observer Pattern  * 
+*Strategy Pattern *
 State Pattern
 *Null Object Method Pattern
 *Visitor Pattern
