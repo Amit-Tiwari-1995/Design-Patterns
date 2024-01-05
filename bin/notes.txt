@@ -23,7 +23,7 @@
 *Memento Pattern
 *Observer Pattern  * 
 *Strategy Pattern *
-State Pattern
+*State Pattern
 *Null Object Method Pattern
 *Visitor Pattern
 *Template Pattern
